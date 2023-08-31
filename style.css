@@ -1,0 +1,183 @@
+/*VR Website Navbar & Banner Section Styling*/
+.vr-logo-img {
+    width: 80px;
+    height: 50px;
+}
+
+#nav-item1 {
+    color: #323f4b;
+    font-family: "Bree Serif";
+}
+
+#nav-item2 {
+    color: #323f4b;
+    font-family: "Bree Serif";
+}
+
+#nav-item3 {
+    color: #323f4b;
+    font-family: "Bree Serif";
+}
+
+#nav-item4 {
+    color: #323f4b;
+    font-family: "Bree Serif";
+}
+
+.banner-section-bg-img {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-section-heading {
+    color: white;
+    font-size: 45px;
+    font-family: "Bree Serif";
+}
+
+.view-button {
+    color: white;
+    background-color: #1a2137;
+    border-width: 0px;
+    width: 130px;
+    height: 45px;
+    border-radius: 8px;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+/*VR Website Features Section Styling*/
+.Features-section-heading{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #1f2933;
+}
+.fs-vr-images{
+    width: 90px;
+}
+.fs-heading{
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: 500;
+    color: #1f2933;
+}
+.fs-para{
+    font-family: "Roboto";
+    color: #7b8794;
+    font-size: 20px;
+}
+.interaction-italic-word{
+    font-style: italic;
+    color: #1f2933;
+    font-weight: bold;
+}
+/*vr kit section styling */
+.vr-kit-section{
+    background-color: #f9fbfe;
+}
+.vrks-heading{
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #1f2933;
+}
+.vr-kit-image{
+    width: 200px;
+    height: 250px;
+}
+.vr-kit-name{
+    color: #323f4b;
+    font-size: 25px;
+}
+/*Vr-optics-section styling*/
+.vr-optics-heading {
+    color: #1f2933;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.vr-optics-para {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.vr-optics-section-button {
+    color: white;
+    font-size: 15px;
+    background-color: #1a2137;
+    width: 120px;
+    height: 45px;
+    border-radius: 9px;
+    border-width: 0px;
+    font-family: "Roboto";
+}
+/*vs foot section styling*/
+.vr-foot-section {
+    background-color: #19232d;
+}
+
+.vr-logo-img {
+    width: 56px;
+    height: 36px;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+    background-color: #202b36;
+    color: #959ead;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border-radius: 40px;
+    margin: 5px;
+}
+
+.vr-foot-section-address-para {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.vrfs-contact-us-heading {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.contact-para {
+    color: #5a7184;
+    font-family: "Roboto";
+}
+
+.contact-icon {
+    color: #959ead;
+    margin-right: 10px;
+}
+
+.vr-foot-section-help-you-heading {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.Help-section-content {
+    color: #5a7184;
+    font-family: "Roboto";
+}
+
+.hr-line {
+    background-color: #5a7184;
+}
+
+.copy-right-content {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-weight: 400;
+}
